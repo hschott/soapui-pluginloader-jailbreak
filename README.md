@@ -2,6 +2,8 @@
 
 Bypasses SoapUI plugin signature check.
 
+Needed only for homemade plugins and for SoapUI OpenSource since version 5.2.1 
+
 ## Build with Maven
 mvn clean package
 
